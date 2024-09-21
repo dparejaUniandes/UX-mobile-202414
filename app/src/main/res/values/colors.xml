@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">@color/amarilloExito</color>
+    <color name="colorPrimaryBlack">@color/negroExito</color>
+    <color name="colorAccent">@color/naranjaExito</color>
+    <color name="naranjaExito">#ff9900</color>
+    <color name="naranjaOscuroExito">#B36D04</color>
+    <color name="amarilloExito">#FFE700</color>
+    <color name="blancoExito">#FFFFFF</color>
+    <color name="negroExito">#000000</color>
+    <color name="rojoExito">#EC1C24</color>
+    <color name="azulCucu">#0077FF</color>
+</resources>
