@@ -26,10 +26,6 @@
             android:name=".GameAlarmActivity"
             android:exported="false" />
         <activity
-            android:name=".GameActivity"
-            android:exported="false"
-            android:theme="@style/Theme.AppCompat.Light" />
-        <activity
             android:name=".TurnOffActivity"
             android:exported="false" />
         <activity
@@ -37,9 +33,6 @@
             android:exported="false" />
         <activity
             android:name=".SoundActivity"
-            android:exported="false" />
-        <activity
-            android:name=".SoundAlarmActivity"
             android:exported="false" />
         <activity
             android:name=".CompleteActivity"
