@@ -1,4 +1,57 @@
 <resources>
     <string name="app_name">Cucu</string>
     <string name="label_clock_image">Clock image</string>
+    <string name="title_activity_alarm_list">AlarmListActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_transform">Transform</string>
+    <string name="menu_reflow">Reflow</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_settings">Settings</string>
+
+    <string name="lorem_ipsum_title">Lorem Ipsum"</string>
+    <string name="lorem_ipsum">Lorem Ipsum is simply placeholder text of the printing and
+        typesetting industry. Lorem Ipsum has been the industry\'s standard placeholder text ever
+        since the 1500s, when an unknown printer took a galley of type and scrambled it to make a
+        type specimen book"
+    </string>
+    <string name="fab_content_description">Represents a view to invoke an action</string>
+    <string name="image_view_item_transform_content_description">Represents an image view in the
+        item
+    </string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="complete">Completar</string>
+    <string name="wakeup">Despiértame</string>
+    <string name="alarm_wakeup">7:00 a.m.</string>
+    <string name="description_background">Logo de la aplicación con transparencia</string>
+    <string name="alarms">Alarmas</string>
+    <string name="time_wakeup">07:00 A.M.</string>
+    <string name="actual_time">Hora Actual</string>
+    <string name="description_background_logo">Imagen de fondo con el logo de la aplicación</string>
+    <string name="tasks">Tareas</string>
+    <string name="task_1">Tomar un vaso de agua</string>
+    <string name="task_2">Tender la cama</string>
+    <string name="task_3">Alimentar a mi mascota</string>
+    <string name="wake_up">Despiértame</string>
+    <string name="turn_off">Apagar</string>
+    <string name="postpone">Posponer</string>
+    <string name="message_turn_off">Ten un excelente día</string>
+    <string name="message_postpone">La alarma sonará dentro de 5 minutos</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="memorize_sequence">Memoriza la secuencia</string>
+    <string name="try_game">Intento 1 de 3</string>
+    <string name="correct_sequence">¡Secuencia correcta!</string>
+    <string name="try_again">Intenta nuevamente</string>
+    <string name="link_device">Vincular dispositivo</string>
+    <string name="cucu">Cucu</string>
 </resources>
