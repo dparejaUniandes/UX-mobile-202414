@@ -10,4 +10,12 @@
     <color name="negroExito">#000000</color>
     <color name="rojoExito">#EC1C24</color>
     <color name="azulCucu">#0077FF</color>
+    <color name="azulFondo">#E4F2FB</color>
+    <color name="colorPrimary30">#0C47A1</color>
+    <color name="colorPrimary60">#1E88E5</color>
+    <color name="colorPrimary70">#ADDFFE</color>
+    <color name="colorPrimary80">#64B5F6</color>
+    <color name="colorSurface">#49454F</color>
+    <color name="colorGame">#D9D9D9</color>
+    <color name="error">#B3261E</color>
 </resources>
